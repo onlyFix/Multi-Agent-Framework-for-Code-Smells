@@ -1,0 +1,15 @@
+﻿{
+  "stage": "pipeline",
+  "status": "completed",
+  "message": "Pipeline finished",
+  "current": 3,
+  "total": 3,
+  "progress": 100.0,
+  "extra": {
+    "run_id": "run_031",
+    "run_output_dir": "outputs\\run_031\\full\\attempt_002",
+    "detection_results": "outputs\\run_031\\full\\attempt_002\\detection_results.jsonl",
+    "repair_results": "outputs\\run_031\\full\\attempt_002\\repair_results.jsonl",
+    "evaluation_report": "outputs\\run_031\\full\\attempt_002\\evaluation_report.json"
+  }
+}
